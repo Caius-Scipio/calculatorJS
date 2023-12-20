@@ -31,7 +31,7 @@ The challenge was simple:
 
 Simple Calculator using React and JavaScript:
 
-![](img/META-5-Details.png)
+![](META-5-Details.png)
 
 Advanced Calculator using JavaScript:
 
