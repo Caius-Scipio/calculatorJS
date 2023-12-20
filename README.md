@@ -35,7 +35,7 @@ Simple Calculator using React and JavaScript:
 
 Advanced Calculator using JavaScript:
 
-![](img/Advanced-Calculator-JS-thumnail.png)
+![](Advanced-Calculator-JS-thumnail.png)
 
 ## My process
 
