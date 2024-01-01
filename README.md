@@ -48,8 +48,6 @@ Advanced Calculator using JavaScript:
 
 ### Changes made
 
-This game was modeled after the Head First Battleship game found within their JavaScript Programming book. However, here are the changes I made to make it uniquely mine:
-
 While working my way through the META certification course, most of the simple REACT calculator app was set up: CSS, file structure, and HTNL. I was responsible for making the code to make the calculator function properly.
 
 After the course, I translated the same code from REACT to vanilla JavaScript. So those two calculators function identically.
@@ -66,10 +64,10 @@ Knowing that this little guy could do more, I set about adding functionality wit
 
 ### What I learned
 
-Making this game was a pleasure, and if I had to summarize the three major takeaways, I'd have to say:
-- Learned the debug feature of my editor, finally
-- Refactoring code to be less verbose
-- How data tags can be used in JavaScript
+Making this calculator was a pleasure, and if I had to summarize the three major takeaways, I'd have to say:
+- Switche statements are great
+- Early coding successes are great motivators for project completion
+- Calculator design and logic are quite personalized
 
 Here is some code I am particularly proud of, or think was interesting:
 
